@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Rachel!!
 
 
 **rachel-601/rachel-601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

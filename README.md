@@ -5,13 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on figuring out how to use Git!
-- 🌱 I’m currently learning what Git/GitHub is and how to use it
-- 👯 I’m looking forward to participating in HackCamp by nwPlus!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Instagram: @rachel.shiii
+- 🔭 I’m currently working on building a project for my CPSC 210 class!
+- 👯 I’m looking forward to learning React.js on my own time to create my personal project!
+- 📫 How to reach me: email (racheljune2004@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 
